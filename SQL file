@@ -1,0 +1,13 @@
+CREATE TABLE Dogs (
+    DogType varchar(255),
+    DogAge int,
+    DogFeed 
+    DogOwnerLastName varchar(255),
+    DogOwnerFirstName varchar(255),
+    Address varchar(255),
+    City varchar(255),
+    selection1:
+field4<input type="radio" name="DogFeed" value="field4"/>
+<input class="form-control" type="date" name="date">
+<input class="form-control" type="time" name="time">
+);
